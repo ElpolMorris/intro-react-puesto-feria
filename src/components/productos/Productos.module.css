@@ -1,0 +1,6 @@
+.flexRow {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0px auto;
+    justify-content: space-between;
+}

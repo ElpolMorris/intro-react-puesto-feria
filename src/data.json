@@ -1,0 +1,34 @@
+{
+    "data":[
+        {
+            "nombre": "manzana",
+            "precio": 2000,
+            "stock": 35,
+            "tipo":"fruta"
+        },
+        {
+            "nombre": "pera",
+            "precio": 1800,
+            "stock": 50,
+            "tipo":"fruta"
+        },
+        {
+            "nombre": "limon",
+            "precio": 3000,
+            "stock": 22,
+            "tipo":"fruta"
+        },
+        {
+            "nombre": "lechuga",
+            "precio": 800,
+            "stock": 25,
+            "tipo":"verdura"
+        },
+        {
+            "nombre": "apio",
+            "precio": 1000,
+            "stock": 15,
+            "tipo":"verdura"
+        }
+    ]
+}
