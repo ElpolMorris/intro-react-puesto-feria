@@ -2,7 +2,7 @@ import Producto from "../producto/Producto";
 import style from "./Productos.module.css"
 import { data } from "../../data.json"
 
-type Item = {
+interface Item {
     nombre: string;
     precio: number;
     stock: number;

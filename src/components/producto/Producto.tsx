@@ -9,7 +9,7 @@ interface Title {
 
 const Producto = ({nombre,precio,stock,tipo } : Title) => {
     return (
-        <div className={styles.cardOwn}>            
+        <div className={`${styles.cardOwn}`}>            
             <h3>{nombre}</h3>
             <div>
                 <p>Precio: ${precio}.-</p>
